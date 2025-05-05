@@ -1,3 +1,6 @@
 [submodule "submodules/test-submodule-child-a"]
 	path = submodules/test-submodule-child-a
 	url = git@github.com:DenisGuiraudet/test-submodule-child-a.git
+[submodule "submodules/test-submodule-child-b"]
+	path = submodules/test-submodule-child-b
+	url = git@github.com:DenisGuiraudet/test-submodule-child-b.git
